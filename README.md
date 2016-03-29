@@ -1,22 +1,22 @@
-project information
+Project information
 -------------------
 
-this repository contains my files 
+This repository contains my files 
 (my code snippets for the main book's topics) 
 for the book  **"Algorithms"** 
-by **S. Dasgupta**, **C.H. Papadimitriou**, and **U.V. Vazirani**
+by **S. Dasgupta**, **C.H. Papadimitriou**, and **U.V. Vazirani**.
 
  
-[here is the link to it's site](http://www.amazon.com/Algorithms-Sanjoy-Dasgupta/dp/0073523402) 
+[here is the link to amazon](http://www.amazon.com/Algorithms-Sanjoy-Dasgupta/dp/0073523402) 
 
 
-installation
+Installation
 ------------
 
-simply copy (clone the repository) and see and read it
+Simply copy (clone the repository) and see and read it.
 
  
-basic usage
+Basic usage
 -----------
  
 `$ git clone
@@ -28,15 +28,15 @@ or
 https://github.com/ordinary-developer/book_algorithms_s_dasgupta.git`
 
  
-license
+License
 -------
 
-this project is offered under the MIT license
+This project is offered under the MIT license.
 
 
-contributing
+Contributing
 ------------
 
-this project doesn't need to be contributed
+This project doesn't need to be contributed.
 
-but just in case you can always connect with me
+But just in case you can always connect with me.
